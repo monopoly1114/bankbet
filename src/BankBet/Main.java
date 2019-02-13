@@ -12,7 +12,7 @@ public class Main {
 		Player playerDog = new Player();
 		Player playerCat = new Player();
 		
-		int storeMoney = 1000;
+		int storeMoney = 2000;
 		int round = 1;
 		for(int i = 1; i <= 10; i++) {
 			storeMoneyIntoBank(playerDog, 1);
